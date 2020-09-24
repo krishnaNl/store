@@ -1,0 +1,3 @@
+interface ISearchParams {
+  searchString: string;
+}
