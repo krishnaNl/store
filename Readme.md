@@ -61,5 +61,7 @@ Be sure you have the android platform-tools in your PATH environment variable so
 
 You may also run either app by using the standard build and run tools in each platforms respective IDE
 
+### Screen Shot
 
 ![Alt text](/list.png?raw=true "Optional Title")
+![Alt text](/details.png?raw=true "Optional Title")
